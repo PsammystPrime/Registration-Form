@@ -1,1 +1,42 @@
+body{background-color: burlywood;
+    margin: 0;
+height: 500px;
+}
+.formDetails{
+    object-fit: fill;
+    flex-shrink: 0;
+}
+.names{
+    margin-top: 20px;
+}
+.region{
+    margin-top: 20px;
+}
+.marriage{
+    margin-top: 20px;
+}
+.gender{ margin-top: 20px;}
+.PWO{ margin-top: 20px;}
+.YOB{ margin-top: 20px;
+}
+.contacts{ margin-top: 30px;
+}
+.e-mail{margin-top: 30px;}
+button{margin-bottom: 20px;
+display: flex;
+}
 
+footer{ padding-bottom:  10px; ;
+
+display: flex;
+flex-direction: column;
+align-items: center;
+background-color: rgb(8, 139, 89);}
+
+.contentContainer{
+    display: flex;
+    margin-left: 10px;
+}
+img{
+    height: 400px;
+}
